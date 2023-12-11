@@ -8,13 +8,13 @@
 * [Webapp about monitoring health parameters](http://194.99.21.224:8504)
 
 # Tier Mobility
-* Blog post - Smart Rebalancing of micromobility vehicles as a data product [Work in Progress]
+* Blog post - 2024: Smart Rebalancing of micromobility vehicles as a data product [Work in Progress]
 
 # Teraki
-* [Blog post](https://www.teraki.com/blog/fusion-blog/#) - How to obtain optimal sensor fusion results
+* [Blog post - 2019:](https://www.teraki.com/blog/fusion-blog/#) How to obtain optimal sensor fusion results
 
 # Particle Physics
-* [TEDx talk](https://youtu.be/9zb5rtVaPK4) on the Higgs boson elementary particle
-* [PhD thesis](https://arxiv.org/abs/1110.5349) - the best result in the world at the time (Aug 2011) on the Higgs boson search
-* [Postdoc result](https://atlas.cern/updates/press-statement/observation-higgs-boson-decay-pair-bottom-quarks) - discovery of Higgs boson decaying to bottom quarks by the ATLAS collaboration at CERN
-* [Science outreach ](http://adrianbuzatu.com/overview.html) - numerous articles and presentations on particle physics at CERN in everyday words
+* [TEDx talk - 2016:](https://youtu.be/9zb5rtVaPK4) The Higgs boson elementary particle
+* [PhD thesis - 2011: ](https://arxiv.org/abs/1110.5349) The best result in the world at the time (Aug 2011) on the Higgs boson search
+* [Postdoc result - 2018: ](https://atlas.cern/updates/press-statement/observation-higgs-boson-decay-pair-bottom-quarks) Discovery of Higgs boson decaying to bottom quarks by the ATLAS collaboration at CERN
+* [Science outreach - 2007-2019: ](http://adrianbuzatu.com/overview.html) Numerous articles and presentations on particle physics at CERN in everyday words
