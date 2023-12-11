@@ -3,6 +3,7 @@
 # Data science and engineering
 
 * [Webapp about solar panel energy simulation](http://194.99.21.224:8503){:target="_blank"}
+<a href="http://194.99.21.224:8503" target="_blank">Webapp about solar panel energy simulation</a>
 * [Webapp about computer vision to detect a moving target](http://194.99.21.224:8505){:target="_blank"}
 * [Webapp to monitor financial time-series data](http://194.99.21.224:8501){:target="_blank"}
 * [Webapp about monitoring health parameters](http://194.99.21.224:8504){:target="_blank"}
