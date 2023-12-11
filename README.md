@@ -13,8 +13,8 @@
 # Teraki
 * [Blog post: How to obtain optimal sensor fusion results](https://www.teraki.com/blog/fusion-blog/#)
 
-# Physics
+# Particle Physics
 * [TEDx talk](https://youtu.be/9zb5rtVaPK4) on the Higgs boson elementary particle
 * [PhD thesis](https://arxiv.org/abs/1110.5349) - the best result in the world at the time (Aug 2011) on the Higgs boson search
-* [Postdoc result: discovery of Higgs boson decaying to bottom quarks](https://atlas.cern/updates/press-statement/observation-higgs-boson-decay-pair-bottom-quarks)
-* [Numerous various particle physics outreac activities](http://adrianbuzatu.com/overview.html)
+* [Postdoc result](https://atlas.cern/updates/press-statement/observation-higgs-boson-decay-pair-bottom-quarks) - discovery of Higgs boson decaying to bottom quarks by the ATLAS collaboration at CERN
+* [Science outreach ](http://adrianbuzatu.com/overview.html) - numerous articles and presentations on particle physics at CERN in everyday words
