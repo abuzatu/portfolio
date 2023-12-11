@@ -8,10 +8,10 @@
 * [Webapp about monitoring health parameters](http://194.99.21.224:8504)
 
 # Tier Mobility
-* Blog post: Smart Rebalancing of micromobility vehicles as a data product - Work in Progress
+* Blog post - Smart Rebalancing of micromobility vehicles as a data product [Work in Progress]
 
 # Teraki
-* [Blog post: How to obtain optimal sensor fusion results](https://www.teraki.com/blog/fusion-blog/#)
+* [Blog post](https://www.teraki.com/blog/fusion-blog/#) - How to obtain optimal sensor fusion results
 
 # Particle Physics
 * [TEDx talk](https://youtu.be/9zb5rtVaPK4) on the Higgs boson elementary particle
